@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Vclown's blog]]></title>
+  <subtitle><![CDATA[Go Further]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://www.steven-shi.com/"/>
+  <updated>2015-01-11T01:11:16.905Z</updated>
+  <id>http://www.steven-shi.com/</id>
+  
+  <author>
+    <name><![CDATA[史骞]]></name>
+    <email><![CDATA[shiqian_@outlook.com]]></email>
+  </author>
+  
+  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Year-end summary]]></title>
+    <link href="http://www.steven-shi.com/2015/01/07/Year-end-summary/"/>
+    <id>http://www.steven-shi.com/2015/01/07/Year-end-summary/</id>
+    <published>2015-01-07T05:33:00.000Z</published>
+    <updated>2015-01-09T07:37:16.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="2014年年度终结">2014年年度终结</h1>
+<h2 id="关于学习">关于学习</h2>
+<p>今年在上海实习。在我认为在大学中，这算是最有意义的一年。这一年每天12个小时的高强度学习，让我重新学习了C，C++，LIUNX。第一次如此长的时间用liunx系统，之前只是玩玩，学习了QT，会使用vi编辑器，gdb调试。知识从未这么丰富。空余时间给“空气罐头”做了一套控制系统（基于开源硬件arduino），并且拿到了我今生第一笔用技术得到的酬劳。</p>
+<h2 id="关于工作">关于工作</h2>
+<p>-面临毕业，感谢丁总的信任，带领我一起创业，提供我喜欢的方式去工作。<br>-感谢<a href="http://terrence-zhou.lofter.com/" target="_blank" rel="external">TerrenceZhou</a>,给我这么重要的信息，能让我跟随一家我自己非常喜欢的公司一起创业。<br>-感谢爸妈给我的支持理解，能让我放手一搏。<br>-最后，欢迎各位创客小伙伴来我们的创客空间（太原创客空间）一起交流学习。</p>
+<h2 id="关于生活">关于生活</h2>
+<p>在最后一个暑假考取了驾照，炎炎夏日每天大汗淋漓，认识一些有趣的人，生活从未如此充实，辛苦总是值得的。第一次体验了南方的冬天，透骨的冷。我是一个来自北方的狼，来了南方冻成了狗。</p>
+<h2 id="关于爱情">关于爱情</h2>
+<p>第一体验异地恋，异地恋并没有消磨我们彼此的感觉，第一次来到南方的城市生活这么长时间，我们以后肯定不会忘记这半年，这半年一起在上海拥挤的人潮中游览外滩，一起游览杭州西湖。。。每天也有矛盾，但更多的是学会了珍惜彼此，体谅对方。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="2014年年度终结">2014年年度终结</h1>
+<h2 id="关于学习">关于学习</h2>
+<p>今年在上海实习。在我认为在大学中，这算是最有意义的一年。这一年每天12个小时的高强度学习，让我重新学习了C，C++，LIUNX。第一次如此长的时间用liunx]]>
+    </summary>
+    
+      <category term="总结，心得" scheme="http://www.steven-shi.com/tags/%E6%80%BB%E7%BB%93%EF%BC%8C%E5%BF%83%E5%BE%97/"/>
+    
+  </entry>
+  
+</feed>
